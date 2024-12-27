@@ -510,6 +510,8 @@
 | ----------------------- | ------------------ |
 | [MockCity](https://mockcity.com/)| Bulk generate mockups from PSD templates by automatically placing images in SmartObjects. The visual editor allows you to change SmartObject parameters and see an updated mockup preview in realtime. |
 | [Smart Mockups](https://smartmockups.com/)| Create stunning product mockups (free & premium) |
+| [Freebies Mockup](https://www.freebiesmockup.com/) — Download free popular graphic offered by Freebies Mockup can be used for personal and commercial purposes so you can include it in your clients' presentations. |
+| [Photoshop PSD Mockups](https://www.photoshopvideotutorial.com/) — Using a freebies Photoshop PSD mockups is a great way to showcase your design in a professional and realistic way. It is also a great way to save money. |
 | [Media Modifier](https://mediamodifier.com/)| beautiful design mockups service for your products (free & premium) |
 | [Shot Snap](https://shotsnapp.com/)| Create beautiful device mockup images for your app or website design |
 | [Screely](https://www.screely.com/)| Instantly turn your screenshot into a mockup |
