@@ -519,6 +519,8 @@
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
 | [Facebook Devices](https://facebook.design/devices)| Images and Sketch files of popular devices  |
 | [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
+| [Freebies Mockup](https://www.freebiesmockup.com/) — Download free popular graphic offered by Freebies Mockup can be used for personal and commercial purposes so you can include it in your clients' presentations. |
+| [Photoshop PSD Mockups](https://www.photoshopvideotutorial.com/) — Using a freebies Photoshop PSD mockups is a great way to showcase your design in a professional and realistic way. It is also a great way to save money. |
 | [Mockuphone](https://mockuphone.com/)| 100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop and TV |
 | [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
 | [Clean Mock](https://cleanmock.com/)| Create stunning mockups using latest device frames like iPhone X & custom backgrounds that make your mobile or website design standout, right from your browser quickly & for free. |
